@@ -3,3 +3,4 @@
 + KMP string matching
 + Huffman tree
 + Longest palindrom substring (Manacher's ALG)
++ Interval tree
