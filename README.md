@@ -5,3 +5,4 @@
 + Longest palindrom substring (Manacher's ALG)
 + Interval tree
 + Quicksort
++ Multiway trie
